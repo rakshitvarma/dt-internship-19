@@ -1,2 +1,3 @@
 # dt-internship-19
-Worked with DecisionTree Analytics and Services as a Data Analyst intern. Assigned with a team on a project in Digital Marketing Analytics.
+
+Project aims at analysing campaign data to find optimal age gender demographics based on click through rate for a new campaign.
